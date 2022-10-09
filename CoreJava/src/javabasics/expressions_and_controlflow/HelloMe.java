@@ -1,0 +1,10 @@
+package javabasics.expressions_and_controlflow;
+
+public class HelloMe {
+    public static void main(String[] args) {
+        // Modify this program to greet you instead of the World!
+        System.out.println("Hello, World!");
+
+        System.out.println("Hello, Jirka!");
+    }
+}
