@@ -30,7 +30,7 @@ public class StackDataStructure {
         // Takes a look at the item/object on the top of stack
         System.out.println(stack.peek());
 
-        // Searches through the stack from top to bottom (INDEXING STARTS 1 NOT 0)
+        // Searches through the stack from top to bottom (INDEXING STARTS AT 1 NOT 0)
         System.out.println(stack.search("Skyrim"));
 
         // Stack is not
