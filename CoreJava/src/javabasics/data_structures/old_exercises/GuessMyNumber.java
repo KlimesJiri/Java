@@ -14,6 +14,8 @@ public class GuessMyNumber {
         randomNumberRange(scanner, random, 4);
 
         randomNumberRangeLives(scanner, random, 10);
+
+        scanner.close();
     }
 
     private static void randomNumber(Scanner scanner, Random random){

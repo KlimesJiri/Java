@@ -26,7 +26,7 @@ public class MostFrequentWord {
     }
 
 
-    static void mostFreqWord(String input){
+    private static void mostFreqWord(String input){
 
         Map<String, Integer> map = new HashMap<>();
         int startOfNewWord = 0;

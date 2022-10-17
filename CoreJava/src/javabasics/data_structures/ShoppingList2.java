@@ -1,7 +1,5 @@
 package javabasics.data_structures;
 
-
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -111,7 +109,7 @@ public class ShoppingList2 {
     }
 
 
-    static void whoBuysMore(String input, Map<String, Integer> bobsList, Map<String, Integer> alicesList){
+    private static void whoBuysMore(String input, Map<String, Integer> bobsList, Map<String, Integer> alicesList){
         if (bobsList.containsKey(input) && alicesList.containsKey(input)){
             if (bobsList.get(input) > alicesList.get(input)){
                 System.out.println("Bob");

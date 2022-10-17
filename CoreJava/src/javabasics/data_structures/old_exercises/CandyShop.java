@@ -22,7 +22,7 @@ public class CandyShop{
         System.out.println(repairSweetList(list));
     }
 
-    static ArrayList<Object> repairSweetList(ArrayList<Object> inputList){
+    private static ArrayList<Object> repairSweetList(ArrayList<Object> inputList){
         for (int i = 0; i < inputList.size(); i++){
             if (inputList.get(i).equals(false)){
                 inputList.remove(i);

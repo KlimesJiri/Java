@@ -17,7 +17,7 @@ public class AppendLetter{
         System.out.println(appendA(animals));
     }
 
-    static List<String> appendA(List<String> list){
+     private static List<String> appendA(List<String> list){
         List<String> updated = new ArrayList<>();
         for (String s : list){
             updated.add(s + "a");

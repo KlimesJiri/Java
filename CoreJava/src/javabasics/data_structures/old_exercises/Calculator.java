@@ -1,7 +1,6 @@
 package javabasics.data_structures.old_exercises;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
@@ -49,9 +48,10 @@ public class Calculator {
 //        System.out.println(list);
 
         System.out.println(calculate(operation, list));
+        scanner.close();
     }
 
-    static Integer calculate(char operation, List<String> list){
+    private static Integer calculate(char operation, List<String> list){
 
 
         Integer outcome = 0;

@@ -20,14 +20,14 @@ public class ElementFinder{
         System.out.println(containsSevenDifferent(listOfNumbers));
     }
 
-    static String containsSeven(List<Integer> list){
+    private static String containsSeven(List<Integer> list){
         if (list.contains(7)){
             return "Hoorray";
         }
         return "Noooooo";
     }
 
-    static String containsSevenDifferent(List<Integer> list){
+    private static String containsSevenDifferent(List<Integer> list){
         for (Integer i : list){
             if (i.equals(7)){
                 return "Hoorray";
