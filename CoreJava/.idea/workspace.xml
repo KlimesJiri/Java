@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d737831-6b97-49f9-9625-f09fb004e8fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/javabasics/data_structures/MostFrequentWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasics/data_structures/MostFrequentWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasics/data_structures/ShoppingList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasics/data_structures/ShoppingList2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/AppendLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/AppendLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/CandyShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/CandyShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/ElementFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/ElementFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/GuessMyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/GuessMyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/JosephusProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasics/data_structures/old_exercises/JosephusProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +48,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ArmstrongNumber">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.data_structures.old_exercises.ArmstrongNumber" />
+  <component name="RunManager" selected="Application.FunctionToCenter">
+    <configuration name="CenterBoxFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawing.CenterBoxFunction" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.data_structures.old_exercises.*" />
+          <option name="PATTERN" value="drawing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculator.Calculator" />
+    <configuration name="Checkerboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawing.Checkerboard" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calculator.*" />
+          <option name="PATTERN" value="drawing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessMyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.data_structures.old_exercises.GuessMyNumber" />
+    <configuration name="FunctionToCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawing.FunctionToCenter" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.data_structures.old_exercises.*" />
+          <option name="PATTERN" value="drawing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JosephusProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.data_structures.old_exercises.JosephusProblem" />
+    <configuration name="PurpleSteps3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawing.PurpleSteps3D" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.data_structures.old_exercises.*" />
+          <option name="PATTERN" value="drawing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubStrList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.data_structures.old_exercises.SubStrList" />
+    <configuration name="RainbowBoxFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawing.RainbowBoxFunction" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.data_structures.old_exercises.*" />
+          <option name="PATTERN" value="drawing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +115,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SubStrList" />
-      <item itemvalue="Application.GuessMyNumber" />
-      <item itemvalue="Application.JosephusProblem" />
-      <item itemvalue="Application.Calculator" />
-      <item itemvalue="Application.ArmstrongNumber" />
+      <item itemvalue="Application.CenterBoxFunction" />
+      <item itemvalue="Application.RainbowBoxFunction" />
+      <item itemvalue="Application.PurpleSteps3D" />
+      <item itemvalue="Application.Checkerboard" />
+      <item itemvalue="Application.FunctionToCenter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.JosephusProblem" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.GuessMyNumber" />
-        <item itemvalue="Application.SubStrList" />
+        <item itemvalue="Application.FunctionToCenter" />
+        <item itemvalue="Application.Checkerboard" />
+        <item itemvalue="Application.PurpleSteps3D" />
+        <item itemvalue="Application.RainbowBoxFunction" />
+        <item itemvalue="Application.CenterBoxFunction" />
       </list>
     </recent_temporary>
   </component>
