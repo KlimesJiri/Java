@@ -5,6 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d737831-6b97-49f9-9625-f09fb004e8fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/drawing/CenterBoxFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/CenteredSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/Checkerboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/ColoredBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/ConnectTheDots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/Diagonals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/FourRectangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/FunctionToCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/GoToCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/HorizontalLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/LineInTheMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/PositionSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/PurpleSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/PurpleSteps3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/RainbowBoxFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drawing/StarryNight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
