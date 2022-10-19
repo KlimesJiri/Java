@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d737831-6b97-49f9-9625-f09fb004e8fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/drawing/CenterBoxFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/CenteredSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/Checkerboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/ColoredBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/ConnectTheDots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/Diagonals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/FourRectangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/FunctionToCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/GoToCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/HorizontalLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/LineInTheMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/PositionSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/PurpleSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/PurpleSteps3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/RainbowBoxFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/drawing/StarryNight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawing/ConnectTheDots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawing/ConnectTheDots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawing/StarryNight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawing/StarryNight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +50,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.FunctionToCenter">
-    <configuration name="CenterBoxFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawing.CenterBoxFunction" />
+  <component name="RunManager" selected="Application.StarryNight">
+    <configuration name="Checkerboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawing.Checkerboard" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Checkerboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawing.Checkerboard" />
+    <configuration name="ConnectTheDots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawing.ConnectTheDots" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RainbowBoxFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawing.RainbowBoxFunction" />
+    <configuration name="StarryNight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawing.StarryNight" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
@@ -131,19 +117,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CenterBoxFunction" />
-      <item itemvalue="Application.RainbowBoxFunction" />
       <item itemvalue="Application.PurpleSteps3D" />
       <item itemvalue="Application.Checkerboard" />
       <item itemvalue="Application.FunctionToCenter" />
+      <item itemvalue="Application.ConnectTheDots" />
+      <item itemvalue="Application.StarryNight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StarryNight" />
+        <item itemvalue="Application.ConnectTheDots" />
         <item itemvalue="Application.FunctionToCenter" />
         <item itemvalue="Application.Checkerboard" />
         <item itemvalue="Application.PurpleSteps3D" />
-        <item itemvalue="Application.RainbowBoxFunction" />
-        <item itemvalue="Application.CenterBoxFunction" />
       </list>
     </recent_temporary>
   </component>
