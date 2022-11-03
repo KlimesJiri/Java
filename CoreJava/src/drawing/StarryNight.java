@@ -40,7 +40,7 @@ public class StarryNight {
         jFrame.pack();
     }
 
-    static class ImagePanel extends JPanel {
+    public static class ImagePanel extends JPanel {
         @Override
         protected void paintComponent(Graphics graphics) {
             super.paintComponent(graphics);

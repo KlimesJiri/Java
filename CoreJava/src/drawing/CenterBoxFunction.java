@@ -3,6 +3,7 @@ package drawing;
 import javax.swing.*;
 
 import java.awt.*;
+
 import java.util.Random;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
@@ -43,7 +44,7 @@ public class CenterBoxFunction {
         jFrame.pack();
     }
 
-    static class ImagePanel extends JPanel {
+    public static class ImagePanel extends JPanel {
         @Override
         protected void paintComponent(Graphics graphics) {
             super.paintComponent(graphics);
