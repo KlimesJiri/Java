@@ -1,5 +1,5 @@
-###### Lucia Hadbavniková - repo under green-fox-academy
-# The Structure of Gloo Neltharion's Directory 
+###### Jiří Klimeš
+# Java Repository
 <br>
 <details>
 <summary>Foundation</summary>
