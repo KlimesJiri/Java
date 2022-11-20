@@ -35,6 +35,12 @@ This repository also includes my work with Spring framework and Spring Boot, wor
   [Drawing](https://github.com/KlimesJiri/core-java/tree/main/4.Drawing/Drawing/src/drawing)<br>
   [Drawing Projects](https://github.com/KlimesJiri/core-java/tree/main/4.Drawing/Drawing/src/drawing_project)
   
+- File IO<br>
+  *Work in progress*
+  
+- Unit Testing<br>
+  *Work in progress*
+  
 <br>
 <summary>Object Oriented Programming</summary>
 
@@ -46,7 +52,7 @@ This repository also includes my work with Spring framework and Spring Boot, wor
   [Inheritance Exercises](https://github.com/KlimesJiri/core-java/tree/main/5.ObjectOrientedProgramming/Inheritance/src)<br>
   
 - Abstracts and Interfaces<br>
-  [Drawing](https://github.com/KlimesJiri/core-java/tree/main/5.ObjectOrientedProgramming/AbstractsInterfaces/src)<br>
+  [Abstract Classes and Interfaces](https://github.com/KlimesJiri/core-java/tree/main/5.ObjectOrientedProgramming/AbstractsInterfaces/src)<br>
   
 - Exams and Projects<br>
   [Pirates](https://github.com/KlimesJiri/core-java/tree/main/6.OOPCompleteProjects/Pirates/src)<br>
