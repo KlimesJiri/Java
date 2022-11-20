@@ -16,7 +16,7 @@ NOTE: Not included yet, work in progress
 This repository also includes my work with Spring framework and Spring Boot, work with databases such as MySQL and much more!
 <br><br>
 
-<summary>Core Java</summary>
+**<summary>Core Java</summary>**
 
 - Expressions and Controlflow<br>
   [Theory](https://github.com/KlimesJiri/core-java/tree/main/1.ExpressionsAndControlflow/ExpressionsAndControlflow/src/theory)<br>
@@ -41,8 +41,7 @@ This repository also includes my work with Spring framework and Spring Boot, wor
 - Unit Testing<br>
   *Work in progress*
   
-<br>
-<summary>Object Oriented Programming</summary>
+**<summary>Object Oriented Programming</summary>**
 
 - OOP Fundamentals<br>
   [OOP Basics](https://github.com/KlimesJiri/core-java/tree/main/5.ObjectOrientedProgramming/OOPFundamentals)<br>
@@ -58,3 +57,8 @@ This repository also includes my work with Spring framework and Spring Boot, wor
   [Pirates](https://github.com/KlimesJiri/core-java/tree/main/6.OOPCompleteProjects/Pirates/src)<br>
   [Forest Simulator](https://github.com/KlimesJiri/core-java/tree/main/6.OOPCompleteProjects/ForestSimulator/src/)<br>
   
+  
+  <br>
+**<summary>Spring and Spring Boot</summary>**
+
+*Work in progress - right now this is empty :(*
