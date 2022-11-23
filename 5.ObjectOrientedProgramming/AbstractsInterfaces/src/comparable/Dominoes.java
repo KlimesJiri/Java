@@ -1,4 +1,4 @@
-package oop.abstracts_interfaces.comparable.domino;
+package comparable;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package oop.abstracts_interfaces.comparable.domino;
+package comparable;
 
 public class Domino implements Comparable<Domino> {
     private final int left;

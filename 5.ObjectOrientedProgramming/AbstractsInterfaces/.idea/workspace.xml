@@ -1,12 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1321b12e-7ced-44bc-9903-470acd4b2ddf" name="Changes" comment="" />
+    <list default="true" id="1321b12e-7ced-44bc-9903-470acd4b2ddf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/charsequence/Gnirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/charsequence/Gnirts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/charsequence/ShiftedCharSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/charsequence/ShiftedCharSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloneable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloneable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloneable/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloneable/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloneable/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloneable/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/comparable/domino/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable/Domino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/comparable/domino/Dominoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable/Dominoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/comparable/domino/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HiNZqyrhITj5mpVEuzTU4nkW2c" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/jirik/OneDrive/Dokumenty/Coding/Java/5.ObjectOrientedProgramming/AbstractsInterfaces/src/flyable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jirik\OneDrive\Dokumenty\Coding\Java\5.ObjectOrientedProgramming\AbstractsInterfaces\src\flyable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.reservations.Main">
+    <configuration name="AppMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="instruments.AppMusic" />
+      <module name="AbstractsInterfaces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flyable.Main" />
+      <module name="AbstractsInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flyable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zoo.Zoo" />
+      <module name="AbstractsInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printable.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printable.Main" />
+      <module name="AbstractsInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="printable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reservations.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reservations.Main" />
+      <module name="AbstractsInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reservations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.reservations.Main" />
+        <item itemvalue="Application.printable.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.AppMusic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1321b12e-7ced-44bc-9903-470acd4b2ddf" name="Changes" comment="" />
+      <created>1669196670942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669196670942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>

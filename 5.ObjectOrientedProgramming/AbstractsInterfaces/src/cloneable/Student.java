@@ -1,4 +1,4 @@
-package abstracts_interfaces.cloneable;
+package cloneable;
 
 public class Student extends Person implements Cloneable{
 

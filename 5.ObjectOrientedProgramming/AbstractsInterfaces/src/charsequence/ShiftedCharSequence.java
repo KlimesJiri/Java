@@ -1,4 +1,4 @@
-package abstracts_interfaces.charsequence;
+package charsequence;
 
 public class ShiftedCharSequence implements CharSequence{
     private String word;

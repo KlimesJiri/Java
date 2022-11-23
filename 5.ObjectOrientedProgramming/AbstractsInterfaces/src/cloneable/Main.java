@@ -1,4 +1,4 @@
-package abstracts_interfaces.cloneable;
+package cloneable;
 
 public class Main {
     public static void main(String[] args) {
