@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1321b12e-7ced-44bc-9903-470acd4b2ddf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/charsequence/Gnirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/charsequence/Gnirts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/charsequence/ShiftedCharSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/charsequence/ShiftedCharSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cloneable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloneable/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cloneable/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloneable/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cloneable/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloneable/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comparable/domino/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable/Domino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comparable/domino/Dominoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable/Dominoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/comparable/domino/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparable/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/jirik/OneDrive/Dokumenty/Coding/Java/5.ObjectOrientedProgramming/AbstractsInterfaces/src/flyable"
+    "last_opened_file_path": "C:/Users/jirik/OneDrive/Dokumenty/Coding/Java/demo/demo"
   }
 }]]></component>
   <component name="RecentsManager">
